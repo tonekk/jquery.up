@@ -3,7 +3,7 @@ jquery.up
 
 Go up multiple parent levels in one simple function.
 
-You know there cases when you have to things like this:
+You know there are cases when you have to do things like this:
 ```js
 // Go up 4 levels of parent()
 var foo = $('#element').parent().parent().parent().parent();
