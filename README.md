@@ -1,6 +1,8 @@
 jquery.up
 =========
 
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://tonekk.mit-license.org)
+
 Go up multiple parent levels in one simple function.
 
 You know there are cases when you have to do things like this:
