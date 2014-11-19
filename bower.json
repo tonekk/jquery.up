@@ -1,0 +1,28 @@
+{
+  "name": "jquery.up",
+  "main": "jquery.up.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tonekk/jquery.up",
+  "description": "Go up multiple parent levels in one simple function.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "parent"
+  ],
+  "authors": [
+    "tonekk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
