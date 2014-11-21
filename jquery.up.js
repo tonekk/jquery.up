@@ -2,7 +2,7 @@
 
   $.fn.extend({
     up: function(levels) {
-      for(var i = levels, self = this; i > 0; i--) {
+      for (var i = levels, self = this; i > 0; i--) {
         self = self.parent();
       }
       return self;
