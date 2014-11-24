@@ -2,6 +2,7 @@ jquery.up
 =========
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://tonekk.mit-license.org)
+[![Bower version](https://badge.fury.io/bo/jquery.up.svg)](http://badge.fury.io/bo/jquery.up)
 
 Go up multiple parent levels in one simple function.
 
